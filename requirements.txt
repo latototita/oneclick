@@ -8,4 +8,4 @@ dj-database-url
 psycopg2
 django-crispy-forms==1.14.0
 django-multiselectfield==0.1.12
-
+Pillow==9.1.1
